@@ -1,0 +1,4 @@
+window.APP_CONFIG = {
+  SUPABASE_URL: 'https://REPLACE.supabase.co',
+  SUPABASE_ANON_KEY: 'REPLACE_WITH_SUPABASE_ANON_KEY'
+};
